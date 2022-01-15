@@ -1,0 +1,20 @@
+[17-Mar-2021 10:23:23 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[09-Sep-2021 22:00:39 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[09-Sep-2021 23:00:38 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 00:00:38 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 01:00:37 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 02:00:39 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 03:00:38 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 04:00:38 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 05:00:38 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 06:00:39 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 07:00:40 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 08:00:38 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 09:00:39 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 10:00:40 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 11:00:40 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 12:00:38 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 13:00:38 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 14:00:39 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 15:00:38 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
+[10-Sep-2021 16:00:38 UTC] PHP Fatal error:  Cannot redeclare ini_set() in /usr/local/lsws/add-ons/webcachemgr/src/RedefineGlobalFuncs.php on line 32
